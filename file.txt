@@ -1,0 +1,20 @@
+project : 
+  I'm excited to share with you a portfolio website I've built using cutting-edge technologies to showcase my 
+  skills and projects. Leveraging the power of React.js, JavaScript, and Tailwind CSS, I've crafted a responsive and visually 
+  appealing website that highlights my expertise and experience.
+In addition to creating a sleek design, I've integrated features like React-icons for intuitive iconography 
+getForm for seamless contact form functionality, and React-scroll for smooth scrolling navigation, enhancing the user 
+experience and interactivity of the site.
+
+portfolio - https://saurabh-protfolio07092001.netlify.app/
+
+project 2  : 
+  FOOD Deliver App 
+  the features that i used when i build this project 
+  Shimmer effect to indicate when data is being loaded 
+  2.Infinite scrolling for seamless loading of new data 
+  3.Sorting of restaurants based on different criteria 
+  4.Debouncing effect to prevent unnecessary requests 
+  5. Implemented lazy loading/bundle chuncking for fast loading of App. 
+  6. Used react-redux for managing the state.
+  7 used redux-toolkit
